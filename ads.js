@@ -1,7 +1,7 @@
 
 // Array of ad URLs
 const adLinks = [
-    'https://paypou.com/watch/0//84936981/tt32643879/',
+    'https://urlef.com/watch/1//84936981/tt10919420/',
     'https://cutpu.com/watch/1//84936981/tt10919420/'
  
     // Add more ad links as needed
