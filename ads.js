@@ -1,8 +1,8 @@
 
 // Array of ad URLs
 const adLinks = [
-    'https://bitly.cx/papawatch2ndads',
-    'https://bitly.cx/papawatch123'
+    'https://paypou.com/watch/0//84936981/tt32643879/',
+    'https://cutpu.com/watch/1//84936981/tt10919420/'
  
     // Add more ad links as needed
 ];
